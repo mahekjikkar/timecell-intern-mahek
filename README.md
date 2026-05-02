@@ -224,8 +224,3 @@ The unlock was inversion: the LLM doesn't have to do *anything* I can do determi
 The general principle I came away with: **the LLM does prose, not arithmetic, not classification, not anything that has a clean Python expression.** Everything Python can compute deterministically should live in Python. The LLM is the last mile, not the engine.
 
 ---
-
-## Submission
-
-- **GitHub repo:** `timecell-intern-<your-name>`
-- **Loom walkthrough:** [link]
